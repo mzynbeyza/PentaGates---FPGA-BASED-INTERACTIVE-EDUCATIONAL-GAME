@@ -1,5 +1,5 @@
 # The Professor's Hero 🏰🎓
-### FPGA-Based Interactive Educational Puzzle Game
+### FPGA-Based Interactive Educational Game
 **Hacettepe University | Department of Electrical & Electronics Engineering** **ELE432 Advanced Digital Design (Spring 2026) Final Project**
 
 ---
