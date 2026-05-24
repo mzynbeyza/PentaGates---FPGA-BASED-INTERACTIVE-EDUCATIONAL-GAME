@@ -51,7 +51,7 @@ To prevent heavy block RAM (M10K) memory inflation associated with massive stati
 ---
 
 ## 🚀 Compilation & Synthesis Deployment
-This project was compiled, verified, and synthesized using **Intel Quartus Prime (Standard Edition)**.
+This project was compiled, verified, and synthesized using **Intel Quartus Prime (Lite Edition)**.
 
 ### Prerequisites
 * **Hardware:** Terasic DE1-SoC Development Kit (Cyclone V 5CSEMA5F31C6)
